@@ -5,21 +5,28 @@ This repository contains five lectures and three workshop sessions on introducin
 ## Authors
 Dr Antonia Mey -- antonia.mey@ed.ac.uk.  
 Dr Matteo Degiacomi -- matteo.t.degiacomi@durham.ac.uk
-Jasmin Güven, Rohan Gorantla
+
+Jasmin Güven, Rohan Gorantla, Ryan Zhu
+
+### Demonstrators 24-25:
+Ryan Zhu and Dominic Philips
+
+
 
 ## Workshop Notebooks
 
 | Workshop               | Materials |
 |-----------|-------------------------|
 |**Workshop 01: Clustering and Regression**||
-|First noteboook: Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Unit_01/01_clustering.ipynb) |
-|Second noteboook: Regression|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Unit_01/01_clustering.ipynb) |
+|1. Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_01/01_clustering.ipynb) |
+|2. Regression|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_01/02_regression.ipynb) |
+|3. Application|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_01/03_application.ipynb) |
 |**Workshop 02: Dimensionality Reduction and Classification**||
-| First notebook: Dimensionality reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Unit_01/02_dimensionality_reduction.ipynb) |
-| Second notebook: Classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Unit_01/03_application.ipynb) |
+|1. Dimensionality reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_02/01_dimensionality_reduction.ipynb) |
+|2. Classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_02/02_classification.ipynb) |
 |**Workshop 03:  Deep Learning for Solubility Classification**||
-|First noteboook: Intro to Pytorch|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Unit_03/01_Intro_to_pytorch.ipynb) |
-| Second notebook: Solubility classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Unit_03/02_Solubility_classification.ipynb) |
+|1. Intro to Pytorch|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_03/01_Intro_to_pytorch.ipynb) |
+|2. Solubility classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ATCP-ML-workshop/blob/main/Workshops/workshop_03/02_Solubility_classification.ipynb) |
 
 ## Local installation
 
