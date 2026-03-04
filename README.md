@@ -8,8 +8,8 @@ Dr Matteo Degiacomi -- matteo.t.degiacomi@durham.ac.uk
 
 Jasmin Güven, Rohan Gorantla, Ryan Zhu
 
-### Demonstrators 24-25:
-Ryan Zhu and Dominic Philips
+### Demonstrator 25-26:
+Ryan Zhu
 
 
 
