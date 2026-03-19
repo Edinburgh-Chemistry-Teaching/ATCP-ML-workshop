@@ -3,8 +3,8 @@
 This repository contains five lectures and three workshop sessions on introducing machine learning concepts in the advanced physical chemistry module at UoE. 
 
 ## Authors
-Dr Antonia Mey -- antonia.mey@ed.ac.uk.  
-Dr Matteo Degiacomi -- matteo.t.degiacomi@durham.ac.uk
+Dr Antonia Mey -- antonia.mey@ed.ac.uk
+Dr Matteo Degiacomi -- matteo.degiacomi@ed.ac.uk
 
 Jasmin Güven, Rohan Gorantla, Ryan Zhu
 
